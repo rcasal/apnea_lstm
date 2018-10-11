@@ -1,1 +1,1 @@
-# apnea_lstm
+# apnea_rnn
